@@ -21,7 +21,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
 # bundle exec rake doc:rails generates the API under doc/api.
-gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'sdoc', '~> 1.0.0', group: :doc
 
 # Version was chosen for Ruby 1.9.3 compatibility
 gem 'bootstrap-sass', '~> 3.2.0.2'
